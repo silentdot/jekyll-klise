@@ -1,21 +1,19 @@
 # Site settings
-title: Klise Theme # site title
+title: Silent | Blog # site title
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  Just a Blog, where i publish my notes and stuff. Hopefully someone finds it helpful.
 lang: en-US # default lang
 timezone: Asia/Jakarta # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+repo: https://github.com/silentdot/jekyll-klise # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Your Name # author name
+  name: Silent # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username # author username
+    Just a Blog, where i publish my notes and stuff. Hopefully someone finds it helpful.
+  username: Chris # author username
   github: github_username
   twitter: twitter_username
   facebook: facebook_username
@@ -23,8 +21,8 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # Url settings
-url: "https://klise.now.sh"
-baseurl:
+url: "https://nervous-thompson-f00c42.netlify.app/"
+baseurl: ""
 permalink: /:title/
 google_analytics:
 fb_appid:
